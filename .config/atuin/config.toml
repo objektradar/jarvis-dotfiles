@@ -1,0 +1,2 @@
+[stats]
+common_subcommands = ["apt", "docker", "systemctl", "systemctl status"]
